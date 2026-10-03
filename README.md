@@ -25,12 +25,11 @@ I help bring visions and ideas to life through modern, functional, and aesthetic
 
 ### Tech & Tools 🛠️
 
-**Languages & Web:**
-`HTML5` `CSS3` `JavaScript`
-
-**Tools & Design:**
-`Git` `GitHub` `VS Code` `Vector Design`
-
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-A259FF?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ---
 
 ### Let's Connect 🤝
