@@ -56,4 +56,4 @@ If you have an idea for a project or just want to chat about tech, design, or ar
 
 - 📧 **Email:** []
 - 🌐 **Portfolio/Website:** []
-- 💼 **LinkedIn:** []
+- 💼 **LinkedIn:** https://www.linkedin.com/in/solomiia-semeshchenko-587072440/
