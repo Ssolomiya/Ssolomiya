@@ -1,18 +1,17 @@
-# Hi, I'm Solomiia! 👋 
+# Hi, I'm Solomiia! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 I’m a 3rd-year **Software Engineering** student at ZEFK in Zaporizhzhia, Ukraine. I code, design, and create clean web experiences.
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&customColorList=0,1,2,3&section=header&text=About+me&fontSize=35" width="100%" />
 
-### About Me 🦝
 
 - 🎓 **Education:** Studying Software Engineering & self-taught Front-End (with a dive into Back-End).
 - 🎨 **Creativity:** When I’m not coding, you’ll find me watercolor painting, sketching, taking photos, or birdwatching.
 - 💡 **Mindset:** I believe great web development lives at the intersection of technical logic and visual aesthetics.
 
 ---
-
-### What I Do 💻
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&customColorList=0,1,2,3&section=header&text=What+I+Do&fontSize=35" width="100%" />
 
 I help bring visions and ideas to life through modern, functional, and aesthetically pleasing websites. I’m always eager to hear your goals and turn them into intuitive digital products.
 
@@ -21,8 +20,8 @@ I help bring visions and ideas to life through modern, functional, and aesthetic
 - 👥 **Open to:** Collaborative projects, open-source initiatives, and design-oriented web tasks.
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&customColorList=0,1,2,3&section=header&text=Tech+and+Tools&fontSize=35" width="100%" />
 
-### Tech & Tools 🛠️
 
 #### Front-End 🌐
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -50,7 +49,8 @@ I help bring visions and ideas to life through modern, functional, and aesthetic
 
 ---
 
-### Let's Connect 🤝
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&customColorList=0,1,2,3&section=header&text=Let's+Connect&fontSize=35" width="100%" />
 
 If you have an idea for a project or just want to chat about tech, design, or art — feel free to reach out!
 
